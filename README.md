@@ -3,12 +3,14 @@
 - 💻 Atualmente trabalhando com Angular e seu ecossistema 
 - ✍ Estudando ReactJs/NextJs e seu ecossistema
 
+
  <div>
   <a href="https://github.com/caiousper2011">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiousper2011&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiousper2011&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  
+  <img src="https://komarev.com/ghpvc/?username=caiousper2011&color=green" alt="caiousper2011" />
+ 
   ##
   
   #### Algumas linguagens e ferramentas que possuo conhecimento
