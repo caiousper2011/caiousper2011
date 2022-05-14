@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Caio Barbosa de Almeida 👋
 
-- 💻 Atualmente trabalhando com Angular e seu ecossistema 
-- ✍ Estudando ReactJs/NextJs e seu ecossistema
+- 💻 Atualmente trabalhando com Angular e ReactJs e seu ecossistema 
 
 
  <div>
